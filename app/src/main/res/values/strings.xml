@@ -5,4 +5,8 @@
     <string name="hint_txt_add">Nombre del Producto</string>
     <string name="label_btn_add">Agregar</string>
     <string name="title_spinner">Selecciona Categoria del Producto</string>
+
+    <string name="menu_editar">Editar</string>
+    <string name="menu_eliminar">Eliminar</string>
+
 </resources>
